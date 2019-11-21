@@ -1,0 +1,24 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[B\u001b[C\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[B\u001b[C\u001b[C\u001b[B"
+  ],
+  "author": "Hleb Nebiadukhin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-mssql": "^1.5.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-mysql-session": "^2.1.0",
+    "express-session": "^1.17.0",
+    "mssql": "^6.0.0",
+    "path": "^0.12.7"
+  }
+}
